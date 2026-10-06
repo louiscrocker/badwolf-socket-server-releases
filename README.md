@@ -23,8 +23,8 @@ Get the latest version from **[Releases](../../releases/latest)**:
 
 | File | What it is |
 |---|---|
-| `BADWOLF Socket Server_<version>_x64-setup.exe` | Installer, per-user, no admin rights needed (**recommended**) |
-| `BADWOLF Socket Server_<version>_x64_en-US.msi` | MSI, per-machine, for managed installs |
+| `BADWOLF.Socket.Server_<version>_x64-setup.exe` | Installer, per-user, no admin rights needed (**recommended**) |
+| `BADWOLF.Socket.Server_<version>_x64_en-US.msi` | MSI, per-machine, for managed installs |
 | `SHA256SUMS.txt` | Checksums: verify with `Get-FileHash <file>` in PowerShell |
 | `probe.py` | Optional tiny test client (Python 3, standard library only) |
 
